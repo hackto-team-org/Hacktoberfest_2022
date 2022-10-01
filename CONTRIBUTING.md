@@ -30,6 +30,6 @@
 
 <h2>🛡 Notice</h2>
 <p>⚔️ All contributors who have followed above rules correctly will meet merge pull request successfully. Don't forget to follow me for more awesomeness!</p>
-<p>⚔️ Follow me on <a href="https://github.com/hackto-team-org">hackto-team-org</a></p>
+<p>⚔️ Follow me on <a href="https://github.com/hackto-team-org">hackto-team-org</a> and <a href="https://github.com/Sam-Ny">Sam_Ny</a></p>
 <p>⚔️ For any further issues, you can contact me in the comments or on my mail id.</p>
 <h3>Happy Hacking to Contibutors</h3>
