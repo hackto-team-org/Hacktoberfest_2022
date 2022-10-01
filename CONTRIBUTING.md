@@ -17,9 +17,7 @@
 <br/>
 <img src="./images/logo-hacktoberfest-full.f42e3b1.jpg">
 <p>🛠 Welcome to hacktobefest 2022 Event</p>
-<br>
- <src="https://camo.githubusercontent.com/ac76f7fbb4f661ae4b87bfd10fa5103206e917f5f50522fcc9268504cd38abae/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e6769663f6369643d6563663035653437707a69327270696730766338706a757372613868696169316239317a676979777662756275397675267269643d67697068792e676966" text-align="center">
-<br>
+<p align="center"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p>
 <h3>How To Contribute</h3>
 <p>⌛️ In order to do successful contribution you must read the rules at the bottom; all pull requests will be accepted by those who correctly submitted their PR.</p>
 <p>⌛️ Patience is key! If the pull request is not merged, tell me in the comment section!</p>
