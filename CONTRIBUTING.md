@@ -1,4 +1,4 @@
-# Hacktoberfest_2022
+# Hacktoberfest_2022 🌟
 <strong>This repository is for beginners to understand and get comfortable with the open source and GitHub.</strong>
 
 <h1>✨Hacktober Fest 2022✨</h1>
