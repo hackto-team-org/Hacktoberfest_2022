@@ -15,7 +15,6 @@
 <p>👷‍♂️ Contribute to this repo and earn rewards!</p>
 <p>⚙️ Visit The Hacktoberfest website for more information <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest 2022</a>
 <br/>
-<img src="./images/logo-hacktoberfest-full.f42e3b1.jpg">
 <p>🛠 Welcome to hacktobefest 2022 Event</p>
 <p align="center"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p>
 <h3>How To Contribute</h3>
