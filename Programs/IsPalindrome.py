@@ -2,6 +2,8 @@
 n=int(input("Enter a number:"))
 temp=n
 rev=0
+
+##Condition to check if a given number is palindrome or not.
 while(n>0):
     dig=n%10
     rev=rev*10+dig
