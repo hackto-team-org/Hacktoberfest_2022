@@ -1,3 +1,4 @@
+## In this program , we implement SieveOfEratosthenes in python
 def SieveOfEratosthenes(num):
     prime = [True for i in range(num+1)]
     p = 2
@@ -12,7 +13,7 @@ def SieveOfEratosthenes(num):
     for p in range(2, num+1):
         if prime[p]:
             print(p)
-             
+
 #main code
 if __name__ == '__main__':
     num = 50
