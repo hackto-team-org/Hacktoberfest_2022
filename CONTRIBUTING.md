@@ -27,6 +27,7 @@
   <li>⚔️ Put your files in correct folder like .cpp file in  c++ folder or .py file in python folder.</li>
   <li>⚔️ Please put your GitHub name in the file to get accepted.</li>
   <li>⚔️ Dont forget to star this repository and watch for more updates!</li>
+</ul>
 
 <h2>🛡 Notice</h2>
 <p>⚔️ All contributors who have followed above rules correctly will meet merge pull request successfully. Don't forget to follow me for more awesomeness!</p>
