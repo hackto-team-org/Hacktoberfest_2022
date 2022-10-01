@@ -15,8 +15,9 @@
 <p>👷‍♂️ Contribute to this repo and earn rewards!</p>
 <p>⚙️ Visit The Hacktoberfest website for more information <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest 2022</a>
 <br/>
-<p>🛠 Welcome to hacktobefest 2022 Event</p>
 <p align="center"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p>
+<p>🛠 Welcome to hacktobefest 2022 Event</p>
+
 <h3>How To Contribute</h3>
 <p>⌛️ In order to do successful contribution you must read the rules at the bottom; all pull requests will be accepted by those who correctly submitted their PR.</p>
 <p>⌛️ Patience is key! If the pull request is not merged, tell me in the comment section!</p>
